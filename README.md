@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uv4s7syfo51dukhk?svg=true)](https://ci.appveyor.com/project/Margarita2113/ci-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/6xem6dulml4vp7ti?svg=true)](https://ci.appveyor.com/project/Margarita2113/testing-api-ci)
